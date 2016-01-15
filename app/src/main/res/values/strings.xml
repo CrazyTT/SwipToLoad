@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SwipToLoad</string>
+    <string name="string_refreshing">刷新中</string>
+    <string name="string_refreshing_to">松开刷新</string>
+    <string name="string_refresh_commit">完成</string>
+    <string name="string_swip_to_refresh">滑动刷新</string>
+    <string name="string_swip_to_load_more">滑动加载更多</string>
+    <string name="string_release_to_load_more">松开加载更多</string>
+    <string name="string_loading">加载中</string>
+</resources>
